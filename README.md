@@ -3,9 +3,19 @@
 Hands-on workshop materials for exploring Post-Quantum Cryptography (PQC), using the Python implementation provided by  
 https://github.com/GiacomoPope/dilithium-py.
 
+Launch the notebooks on Binder (no local installation required):
+
+dilithium_intro.ipynb:
+
 [![Launch on Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/piabauspiess/pqc-workshop/main?filepath=notebooks%2Fdilithium_intro.ipynb)
 
-> No local installation required — click the Binder badge above to run the notebooks directly in your browser.
+dilithium_performance.ipynb:
+
+[![Launch on Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/piabauspiess/pqc-workshop/main?filepath=notebooks%2Fdilithium_performance.ipynb)
+
+dilithium_notes.ipynb:
+
+[![Launch on Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/piabauspiess/pqc-workshop/main?filepath=notebooks%2Fdilithium_notes.ipynb)
 
 ---
 
