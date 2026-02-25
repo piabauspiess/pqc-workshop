@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Conda env & caches
+.env
+.envrc
+.venv
+.conda
+.conda_env.yml
+
+# OS
+.DS_Store
