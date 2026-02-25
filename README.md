@@ -51,7 +51,6 @@ conda activate pqc-workshop
 jupyter notebook
 ```
 
-(or use `jupyter lab` if preferred)
 
 This will open a browser window.
 
@@ -80,9 +79,3 @@ If the environment creation fails, verify that your conda installation is up to 
 ```bash
 conda update -n base -c conda-forge conda
 ```
-
----
-
-## License
-
-(Add your preferred license here, e.g., MIT License.)
