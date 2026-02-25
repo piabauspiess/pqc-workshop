@@ -10,6 +10,7 @@ dependencies:
   - typing
   - numpy
   - pandas
+  - matplotlib
   - jupyter
   - jupyterlab
   - ipykernel
