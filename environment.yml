@@ -6,6 +6,8 @@ dependencies:
   - python=3.13
   - setuptools
   - pip
+  - pip:
+      - dilithium_py
   - wheel
   - anaconda-anon-usage
   - anaconda-catalogs
