@@ -1,4 +1,4 @@
-name: dilithium
+name: pqc-workshop
 channels:
   - conda-forge
 dependencies:
